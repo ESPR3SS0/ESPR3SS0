@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Ryan</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=espr3ss0&label=Profile%20views&color=0e75b6&style=flat" alt="espr3ss0" /> </p>
 
-- 🔭 I’m currently working on **Overwatch Stat Project**
+- 🔭 I’m currently working on **Making my own interpreted language with the book 'Crafting Interpreters'!**
 
-- 🌱 I’m currently learning **More React, DataScience/Visualization**
+- 🌱 I’m currently learning **Rust, with some machine learning on the side**
 
-- 💬 Ask me about **Linux**
+- 💬 Ask me about **Language design choices... or about all the possibilities with Haskell + LLVM code / implicit parallelization**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
