@@ -1,11 +1,11 @@
 <h1 align="center">Hello, I'm Ryan</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=espr3ss0&label=Profile%20views&color=0e75b6&style=flat" alt="espr3ss0" /> </p>
 
-- 🔭 I’m currently working on **Making my own language named Lox! (Following 'Crafting Interpreters')**
+- 🔭 I’m currently working on **Making my own cli tool named bud, your personal project buddy!**
 
 - 🌱 I’m currently learning **Rust, machine learning**
 
-- 💬 Ask me about **Language design... or Haskell + LLVM**
+- 💬 Ask me about **Language design, cli tools, any thing Unix!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
