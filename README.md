@@ -11,7 +11,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hey+there+👋+Im+Ryan!+Welcom+to+My+Profile!;Im+a+passionate+learner/researcher+;Unix+enthusiast+;Have+a+look+around+;)](https://git.io/typing-svg)
 
 
-- 🔭 I’m currently working on **Making my own cli tool named bud, your personal project buddy!**
+- 🔭 Right now I'm working on 
+1. **Binary Analysis with Neural Nets!**
+2. **Making my own cli tool named bud, your personal project buddy!**
 
 - 🌱 I’m currently learning **Rust, Mojo, ML**
 
