@@ -3,9 +3,12 @@
 
 <h1 align="center">Hello, I'm Ryan</h1>
 <!--   my-ticker -->    
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Ryan+;+Welcome+to+My+Profile!;Passoniate+about+learning+;Machine+learning+enthusiast)](https://git.io/typing-svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=espr3ss0&label=Profile%20views&color=0e75b6&style=flat" alt="espr3ss0" /> </p>
+
+<!--   my-ticker -->    
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+Test+This;+Welcome+to+My+Profile!;Over+4+years+of+programming+experience;Always+learning+new+things+;Machine+learning+enthusiast+;Kaggle+community+member)](https://git.io/typing-svg)
+
 
 - 🔭 I’m currently working on **Making my own cli tool named bud, your personal project buddy!**
 
