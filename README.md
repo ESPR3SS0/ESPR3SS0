@@ -8,7 +8,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=espr3ss0&label=Profile%20views&color=0e75b6&style=flat" alt="espr3ss0" /> </p>
 
 <!--   my-ticker -->    
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hey+there+👋+Im+Ryan!+Welcom+to+My+Profile!;Im+a+passionate+learner/researcher+;Unix+enthusiast+;Have+a+look+around+;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hey+there+👋+Im+Ryan!+Welcome+to+My+Profile!;Im+a+passionate+learner/researcher+;Unix+enthusiast+;Have+a+look+around+;)](https://git.io/typing-svg)
 
 
 - 🔭 Right now I'm working on, **Binary Analysis with Neural Nets!, and a cli tool named bud!**
