@@ -12,7 +12,7 @@
 
 - 🔭 Right now I'm working on, **Binary Analysis with Neural Nets!, and a cli tool named bud!**
 
-- 🌱 I’m currently learning **Rust, Mojo, ML**
+- 🌱 I’m currently learning **Mojo, Neural-Network Compression, Rust**
 
 - 💬 Ask me about **Language design, cli tools, any thing Unix!**
 
