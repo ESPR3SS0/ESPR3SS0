@@ -31,7 +31,10 @@
 ### 📈 GitHub Activity Graph:
 <!-- [![ESPR3SS0's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ESPR3SS0&theme=github-compact)](https://github.com/ESPR3SS0/github-readme-activity-graph) -->
 
-![ESPR3SS0's github activity graph](https://raw.githubusercontent.com/ESPR3SS0/ESPR3SS0/output/github-contribution-grid-snake.svg)
+<!--![Snake Light](https://raw.githubusercontent.com/ESPR3SS0/ESPR3SS0/output/github-contribution-grid-snake.svg)-->
+![Snake Light](https://raw.githubusercontent.com/ESPR3SS0/ESPR3SS0/output/github-contribution-grid-snake.svg?v=1#gh-light-mode-only)
+![Snake Dark](https://raw.githubusercontent.com/ESPR3SS0/ESPR3SS0/output/github-contribution-grid-snake-dark.svg?v=1#gh-dark-mode-only)
+
 
 <!--- ![ESPR33SS0's github activity graph](https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake.svg) -->
 
