@@ -10,6 +10,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hey+there+👋+Im+Ryan!+Welcome+to+My+Profile!;Im+a+passionate+learner/researcher+;Unix+enthusiast+;Have+a+look+around+;)](https://git.io/typing-svg)
 
 
+- 📚 Check out my some [write-ups](https://espr3ss0.github.io/espresso_blog/) of my ML projects! Each write up has 3 sizes 🌱 5 min read, 🍫 10 min read, 🍵 Deep dive!
+
 - 🔭 Right now I'm working on, **Optimal Neural Network Minimization; Mojo Kernels and Max Graphs for NNs!!! ; Fault Analysis**
 
 - 🌱 I’m currently learning **Mojo, Neural-Network Compression**
